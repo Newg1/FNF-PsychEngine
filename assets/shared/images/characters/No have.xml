@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Andy.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="468" height="790"/>
+	<SubTexture name="down0001" x="0" y="0" width="468" height="790"/>
+	<SubTexture name="down0002" x="468" y="0" width="468" height="790"/>
+	<SubTexture name="idle0000" x="936" y="0" width="468" height="790" frameX="0" frameY="0" frameWidth="468" frameHeight="794"/>
+	<SubTexture name="idle0001" x="1404" y="0" width="468" height="790" frameX="0" frameY="0" frameWidth="468" frameHeight="794"/>
+	<SubTexture name="idle0002" x="1872" y="0" width="468" height="790" frameX="0" frameY="0" frameWidth="468" frameHeight="794"/>
+	<SubTexture name="idle0003" x="1404" y="0" width="468" height="790" frameX="0" frameY="0" frameWidth="468" frameHeight="794"/>
+	<SubTexture name="idle0004" x="936" y="0" width="468" height="790" frameX="0" frameY="-4" frameWidth="468" frameHeight="794"/>
+	<SubTexture name="left0000" x="2340" y="0" width="468" height="790"/>
+	<SubTexture name="left0001" x="2808" y="0" width="468" height="790"/>
+	<SubTexture name="left0002" x="2808" y="0" width="468" height="790"/>
+	<SubTexture name="right0000" x="3276" y="0" width="468" height="790"/>
+	<SubTexture name="right0001" x="3276" y="0" width="468" height="790"/>
+	<SubTexture name="right0002" x="0" y="790" width="468" height="790"/>
+	<SubTexture name="right0003" x="468" y="790" width="0" height="0" frameX="1072" frameY="1220" frameWidth="468" frameHeight="790"/>
+	<SubTexture name="right0004" x="468" y="790" width="0" height="0" frameX="1072" frameY="1220" frameWidth="468" frameHeight="790"/>
+	<SubTexture name="up0000" x="468" y="790" width="468" height="790"/>
+	<SubTexture name="up0001" x="936" y="790" width="468" height="790"/>
+</TextureAtlas>
