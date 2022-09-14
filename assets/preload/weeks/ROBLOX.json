@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"noob memories",
+			"Noob",
+			[
+				255,
+				215,
+				80
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"storyName": "somewhere in the game...",
+	"weekName": "ROBLOX",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
